@@ -1,0 +1,23 @@
+
+---
+
+### **project.yml**
+```yaml
+project:
+  name: "Contact Book"
+  day: 18
+  week: 3
+  topic: "File Handling & Functions"
+  description: "A simple contact management system that stores names and phone numbers in a text file."
+  files:
+    - 01.py
+    - 02.py
+    - 01_contact_book.py
+    - 02_contact_book.py
+    - contacts.txt
+  main_file: "02_contact_book.py"
+  dependencies: []
+  difficulty: "Easy"
+  estimated_time_minutes: 40
+  author: "Faiz Ur Rehman Ashrafi"
+  version: "1.0.0"

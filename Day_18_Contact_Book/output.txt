@@ -1,0 +1,36 @@
+===Contact List Menu===
+1. Show Contacts
+2. Add Contacts
+3. Delete Contacts
+4. Exit
+Enter choice (1-4): 2
+Name: Ali Khan
+Phone#: 03001234567
+New Contact Name: Ali Khan | Phone#: 03001234567 added successfully!
+
+===Contact List Menu===
+1. Show Contacts
+2. Add Contacts
+3. Delete Contacts
+4. Exit
+Enter choice (1-4): 1
+
+Your Contact Lists
+1: Name: Ali Khan | Phone#: 03001234567
+
+===Contact List Menu===
+1. Show Contacts
+2. Add Contacts
+3. Delete Contacts
+4. Exit
+Enter choice (1-4): 3
+Enter Contact S# to delete: 1
+Contact Name: Ali Khan | Phone#: 03001234567 removed successfully!
+
+===Contact List Menu===
+1. Show Contacts
+2. Add Contacts
+3. Delete Contacts
+4. Exit
+Enter choice (1-4): 4
+Exiting.... Your Contacts are saved. See You Again!
